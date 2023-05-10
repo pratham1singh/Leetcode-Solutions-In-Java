@@ -1,0 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+
+TreeNode ans=null;
+public boolean isthere(TreeNode root,int key){
+    if(root!=null){
+        if(root.val==key)
+            return true;
+        return isthere(root.left,key) || isthere(root.right,key);
+        
+    }
+    return false;
+}
+public void solve(TreeNode root,int p,int q){
+    if(root!=null){ 
+        if(isthere(root,p)&&isthere(root,q))
+        ans=root;
+        solve(root.left,p,q);
+        solve(root.right,p,q);
+    }
+}
+public TreeNode lowestCommonAncestor(TreeNode root,TreeNode p,TreeNode q) {
+
+
+        solve(root,p.val,q.val);
+        return ans;
+    }
+}
