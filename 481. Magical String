@@ -1,0 +1,18 @@
+class Solution(object):
+    def magicalString(self, n):
+        if n<3:
+            return 1
+        str1="122"
+        i=2
+        l=3
+        while l<n:
+            if str1[-1]=="1":
+                str1+="2"*int(str1[i])
+                l+=int(str1[i])
+                i+=1
+            else:
+                str1+="1"*int(str1[i])
+                l+=int(str1[i])
+                i+=1
+        return str1[:n].count("1")
+
