@@ -15,12 +15,14 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        HashMap<Node,Node >map = new HashMap<>();
         if(head==null)
         return null;
         Node head2=null,ptr=head,last=head;
         while(ptr!=null)
         {
             Node temp=new Node(ptr.val);
+            map.put(ptr,temp);
             if(head2==null)
             {
                 head2=temp;
@@ -42,24 +44,10 @@ class Solution {
                 ptr2.random=null;
             }
             else{
-                Node temp=head;
-                int i=0,ind=0;
-                while(temp!=ptr.random){
-                    ind+=1;
-                    temp=temp.next;
-                }
-                temp=head2;
-                while(temp!=null&&i!=ind)
-                {
-                    temp=temp.next;
-                    i+=1;
-
-                }
-                ptr2.random=temp;
+                ptr2.random= map.get(ptr.random);
             }
             ptr=ptr.next;
             ptr2=ptr2.next;
-
         }
        return head2; 
     }
