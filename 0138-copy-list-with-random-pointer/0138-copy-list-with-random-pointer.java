@@ -14,42 +14,48 @@ class Node {
 */
 
 class Solution {
-    public Node copyRandomList(Node head) {
-        HashMap<Node,Node >map = new HashMap<>();
-        if(head==null)
-        return null;
-        Node head2=null,ptr=head,last=head;
-        while(ptr!=null)
-        {
-            Node temp=new Node(ptr.val);
-            map.put(ptr,temp);
-            if(head2==null)
-            {
-                head2=temp;
-                last=temp;
-            }
-            else{
-                last.next=temp;
-                last=temp;
-            }
+    public void doubly(Node head){
+        Node ptr=head,forw=head.next;
+        while(ptr!=null){
+            Node new_n = new Node(ptr.val);
+            forw=ptr.next;
+            ptr.next=new_n;
+            new_n.next=forw;
+            ptr=forw;
+        }
+    }
+    public Node singly(Node head){
+        Node ptr=head,forw=head.next,temp;
+        head=head.next;
+        
+        while(forw!=null){
+            
+            ptr.next=forw.next;
+            if(forw.next!=null)
+                forw.next=forw.next.next;
+            else
+                forw.next=null;
             ptr=ptr.next;
+            forw=forw.next;
 
         }
-        ptr=head;
-        Node ptr2=head2;
-        while(ptr!=null)
-        {
-            if(ptr.random==null)
-            {
-                ptr2.random=null;
+        return head;
+    }
+    public Node copyRandomList(Node head) {
+        if(head==null)
+            return head;
+        doubly(head);
+        Node ran=null,ptr=head;
+        while(ptr!=null){
+            if(ptr.random==null){
+                ptr.next.random=null;
             }
             else{
-                ptr2.random= map.get(ptr.random);
+                ptr.next.random=ptr.random.next;
             }
-            ptr=ptr.next;
-            ptr2=ptr2.next;
+            ptr=ptr.next.next;
         }
-       return head2; 
+
+        return singly(head);
     }
-    
 }
