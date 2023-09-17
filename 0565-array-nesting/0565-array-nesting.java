@@ -3,6 +3,8 @@ class Solution {
         int ans=0,i=0,n=nums.length;
         for(i=0;i<n;i++){
             int c=0;
+            if(c>=n/2+1)
+                break;
             while(i!=-1&&nums[i]!=-1){
                 int x=nums[i];
                 nums[i]=-1;
