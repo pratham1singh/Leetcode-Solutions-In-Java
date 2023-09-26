@@ -14,32 +14,16 @@
  * }
  */
 class Solution {
+    
     public TreeNode pruneTree(TreeNode root) {
-        return prune(root);
-        
-    }
-    public TreeNode prune(TreeNode root){
-        if (root!=null)
-        {
-            root.left=prune(root.left);
-            root.right=prune(root.right);
-            
-            if(root.val==0 && root.left==null && root.right==null){
-                return null;
-            }
-            
-
+        if(root==null||(root.val==0 && root.left==null&&root.right==null))
+            return null;
+        else{
+            root.left=pruneTree(root.left);
+            root.right=pruneTree(root.right);
+            if(root.val==0&&(root.left==null&&root.right==null))
+            return null;
+            return root;
         }
-        return root;
-        
-
     }
 }
-
-
-
-
-
-
-
-
