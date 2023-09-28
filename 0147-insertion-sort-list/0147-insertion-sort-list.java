@@ -9,43 +9,41 @@
  * }
  */
 class Solution {
-    public ListNode insertionSortList(ListNode head) {
+    ListNode head;
+    public ListNode get_min(){
+        ListNode mn=head,ptr=head,pre_mn=null,pre_ptr=null;
 
-        ListNode nhead=null,ptr=head,tail=nhead;
-        
         while(ptr!=null){
-            ListNode temp=ptr,x=ptr,pre=temp,xpre=temp;
-            
-            while(temp!=null){
-                if(x.val>temp.val){
-                    xpre=pre;
-                    x=temp;
-
-                }
-                pre=temp;
-                temp=temp.next;
-                    
+            if(mn.val>ptr.val){
+                mn=ptr;
+                pre_mn=pre_ptr;
+                
             }
-            if(x==ptr){
-                ptr=x.next;
-                x.next=null;
-
-            }
-            else{
-                xpre.next=x.next;
-                x.next=null;
-                }
-
-            if(nhead==null){
-                        nhead=x;
-                        tail=x;
-                    }
-            else{
-                    tail.next=x;
-                    tail=x;
-                }
-
+            pre_ptr=ptr;
+            ptr=ptr.next;
         }
-        return nhead;
+System.out.println(head.val+" "+mn.val);
+        if(pre_mn!=null){
+            pre_mn.next=mn.next;
+            mn.next=null;
+        }
+        else{
+            head=mn.next;
+        }
+        
+        return mn;
+        
+    }
+    public ListNode insertionSortList(ListNode head) {
+        this.head=head;
+        
+        ListNode new_head=new ListNode(),ptr=new_head,tail=new_head;
+        while(this.head!=null){
+            ListNode mn=get_min();
+            tail.next=mn;
+            tail=mn;
+        }
+        return new_head.next;
+
     }
 }
