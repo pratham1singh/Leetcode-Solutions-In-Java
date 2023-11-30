@@ -1,0 +1,31 @@
+class Solution {
+    String str1,str2;
+    int n1,n2,visited[][];
+    public int find(int i,int j){
+        if(i==n1||j==n2)
+            return 0;
+        else if(visited[i][j]!=-1)
+            return visited[i][j];
+        else if(str1.charAt(i)==str2.charAt(j))
+            return 1+find(i+1,j+1);
+        else{
+            visited[i][j]=Math.max(find(i+1,j),find(i,j+1));
+            return visited[i][j];
+        }
+    }
+   
+    public int longestPalindromeSubseq(String s) {
+        str1=s;
+        str2="";
+        n1=s.length();
+        n2=s.length();
+        for(int i=n1-1;i>=0;i--)
+            str2+=s.charAt(i);
+        visited= new int[n1][n2];
+        for(int i=0;i<n1;i++)
+            for(int j=0;j<n2;j++)
+                visited[i][j]=-1;
+       
+        return find(0,0);
+    }
+}
