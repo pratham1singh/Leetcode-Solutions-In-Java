@@ -1,0 +1,27 @@
+class Solution {
+    int n,mx,ans=0;
+    public int mx_path(int root,int cost[]){
+        if(2*root>n)
+            return cost[root-1];
+        else
+            return cost[root-1]+Math.max(mx_path(2*root,cost),mx_path(2*root+1,cost));
+        
+    }
+    public int find(int root,int cur,int cost[]){
+        if(2*root>n)
+            return mx-cur-cost[root-1];
+        else{
+            int l=find(2*root,cur+cost[root-1],cost);
+            int r=find(2*root+1,cur+cost[root-1],cost);
+            ans+=Math.abs(l-r);
+            return Math.min(l,r);
+        }
+    }
+    public int minIncrements(int n, int[] cost) {
+        this.n=n;
+        mx=mx_path(1,cost);
+        // System.out.println(mx);'
+        find(1,0,cost);
+        return ans;
+    }
+}
