@@ -1,0 +1,73 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
+class Solution {
+    HashMap<TreeNode,ArrayList<Integer>> map = new HashMap<>();
+
+    public void find(TreeNode root,ArrayList<TreeNode> arr,int sum){
+        if(root==null)
+            return ;
+        else if(root.left==null&&root.right==null){
+            sum+=root.val;
+            arr.add(root);
+            for(TreeNode x:arr){
+                if(map.get(x)!=null)
+                    map.get(x).add(sum);
+                else{
+                    ArrayList<Integer> arr2= new ArrayList<>();
+                    arr2.add(sum);
+                    map.put(x,arr2);
+                }
+            }
+            arr.remove(arr.size()-1);
+        }
+        else{
+            arr.add(root);
+            find(root.left,arr,sum+root.val);
+            find(root.right,arr,sum+root.val);
+            arr.remove(arr.size()-1);
+        }
+    }
+    public boolean is_Insufficient(TreeNode root,int k){
+        if(root==null)
+            return false;
+        // boolean ans=true;
+        for(int x:map.get(root))
+            if(x>=k)
+                return false;
+        return true;
+    }
+    public void cutTree(TreeNode root,int k){
+        if(root==null)
+            return;
+        else{
+            if(is_Insufficient(root.left,k)==true)
+                root.left=null;
+            if(is_Insufficient(root.right,k)==true)
+                root.right=null;
+            cutTree(root.left,k);
+            cutTree(root.right,k);
+        }
+        
+        
+    }
+    public TreeNode sufficientSubset(TreeNode root, int limit) {
+        find(root,new ArrayList<TreeNode>(),0);
+        if(is_Insufficient(root,limit)==true)
+            return null;
+        cutTree(root,limit);
+        return root;
+    }
+}
