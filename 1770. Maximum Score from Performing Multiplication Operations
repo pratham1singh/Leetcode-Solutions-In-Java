@@ -1,0 +1,27 @@
+class Solution {
+    int m,nums[],multi[],n,ans[][];
+    HashMap<Integer,HashMap<Integer,Integer>>map = new HashMap<>();
+    public int find(int i,int j){
+        if(n-(j-i)-1>=m)
+            return 0;
+        else if(map.get(i).get(j)!=null)
+            return map.get(i).get(j);
+        else{
+            int a=nums[i]*multi[n-(j-i)-1]+find(i+1,j);
+            int b=nums[j]*multi[n-(j-i)-1]+find(i,j-1);
+            map.get(i).put(j,Math.max(a,b));
+            return Math.max(a,b);
+        }
+    }
+    public int maximumScore(int[] nums, int[] multipliers) {
+        m=multipliers.length;
+        multi=multipliers;
+        this.nums=nums;
+        n=nums.length;
+        for(int i=0;i<n;i++){
+            HashMap<Integer,Integer> map2= new HashMap<>();
+            map.put(i,map2);
+        }
+        return find(0,nums.length-1);
+    }
+}
