@@ -2,7 +2,7 @@ class Solution {
     int arr[][],n,k,visited[][],solved[][];
     HashMap<Integer,ArrayList<Integer>> map =new HashMap<>();
     public int find(int s,int d,int c){
-        System.out.println(s+" "+c);
+        // System.out.println(s+" "+c);
         if(s==d)
             return 0;
         else if(c>k)
