@@ -14,21 +14,28 @@
  * }
  */
 class Solution {
-    int ans=0;
-    public int find(TreeNode root){
+    HashMap<TreeNode,Integer> map = new HashMap<>();
+    public int height(TreeNode root){
         if(root==null)
             return 0;
-        else if(root.left==null&&root.right==null)
-            return 1;
         else{
-            int l=find(root.left);
-            int r=find(root.right);
-            ans=Math.max(ans,l+r+1);
+            int l=height(root.left);
+            int r=height(root.right);
+            map.put(root,Math.max(l,r)+1);
             return Math.max(l,r)+1;
         }
     }
+    public int find(TreeNode root){
+        if(root==null)
+            return 0;
+        else{
+            return Math.max(map.get(root.left)+map.get(root.right),Math.max(find(root.left),find(root.right)));
+        }
+    }
     public int diameterOfBinaryTree(TreeNode root) {
-        int a=find(root);
-        return Math.max(ans,a)-1;
+        map.put(root,height(root));
+        // System.out.println(map);
+        map.put(null,0);
+        return find(root);
     }
 }
