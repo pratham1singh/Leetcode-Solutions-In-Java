@@ -1,23 +1,18 @@
 class Solution {
-    public int bagOfTokensScore(int[] tokens, int power) {
-        int n=tokens.length,i=0,j=n-1,score=0;
-        Arrays.sort(tokens);
+    int tokens[],power,n;
+    public int find(int i,int power){
+        if(i==n)
+            return 0;
+        else if(tokens[i]<=power)
+            return 1+find(i+1,power-tokens[i]);
+        else {
+            return Math.max(find(i+1,power+tokens[i])-1,find(i+1,power));
+        }   
+    }
 
-        while(i<=j){
-            if(tokens[i]<=power){
-                power-=tokens[i];
-                score+=1;
-                i+=1;
-            }
-            else if(i!=j&&tokens[j]+power>=tokens[i]&&score>0){
-                score-=1;
-                power+=tokens[j];
-                j-=1;
-            }
-            else{
-                break;
-            }
-        }
-        return score;
+    public int bagOfTokensScore(int[] tokens, int power) {
+        Arrays.sort(tokens);
+        this.tokens=tokens;
+        n=tokens.length;
     }
 }
