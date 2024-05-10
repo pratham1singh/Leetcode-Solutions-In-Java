@@ -6,7 +6,10 @@ class Solution {
             pq.add(-x);
         long ans=0;
         while(k>0){
-            ans+=(-pq.poll()+d);
+            int x=-pq.poll()+d;
+            if(x<0)
+                x=0;
+            ans+=x;
             d-=1;
             k-=1;
         }
