@@ -13,7 +13,7 @@ class Solution {
         while(i<n){
             if(st.peek()[1]>=arr[i][0]){
                 int a[]= new int[2];
-                st.peek()[1]=arr[i][1];
+                st.peek()[1]=Math.max(arr[i][1],st.peek()[1]);
                 i++;
             }
             else{
