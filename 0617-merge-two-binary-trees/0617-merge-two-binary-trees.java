@@ -14,11 +14,21 @@
  * }
  */
 class Solution {
+    public TreeNode find(TreeNode root1,TreeNode root2){
+        if(root1==null&&root2==null)
+            return null;
+        else if(root1==null&&root2!=null)
+            return root2;
+        else if(root1!=null&&root2==null)
+            return root1;
+        else{
+            TreeNode x= new TreeNode(root1.val+root2.val);
+            x.left=find(root1.left,root2.left);
+            x.right=find(root1.right,root2.right);
+            return x;
+        }
+    }
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
-        if(root1==null&&root2==null) return null;
-        TreeNode x= new TreeNode((root1!=null?root1.val:0)+(root2!=null?root2.val:0));
-        x.left=mergeTrees((root1!=null?root1.left:null),(root2!=null?root2.left:null));
-        x.right=mergeTrees((root1!=null?root1.right:null),(root2!=null?root2.right:null));
-        return x;
+        return find(root1,root2);
     }
 }
