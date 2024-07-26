@@ -1,29 +1,19 @@
 class Solution {
-    int n,nums[],target;
-    HashMap<Integer,HashMap<Integer,Integer>> map = new HashMap<>();
-    public int count(int i,int val){
-        if(val==target&&i==n)
+
+    int n,target;
+    public int find(int i,int value,int nums[]){
+        if(i==n&&value==target)
             return 1;
-        else if(i>=n)
+        if(i==n)
             return 0;
-        else if(map.get(i)!=null&&map.get(i).get(val)!=null)
-            return map.get(i).get(val);
-        else{
-            int ans=count(i+1,val+nums[i])+count(i+1,val-nums[i]);
-            if(map.get(i)!=null)
-                map.get(i).put(val,ans);
-            else{
-                HashMap<Integer,Integer> map2 = new HashMap<>();
-                map2.put(val,ans);
-                map.put(i,map2);
-            }
-            return map.get(i).get(val);
-        }
+        int ans=0;
+        ans+=find(i+1,value+nums[i],nums);
+        ans+=find(i+1,value-nums[i],nums);
+        return ans;
     }
     public int findTargetSumWays(int[] nums, int target) {
-        this.n=nums.length;
-        this.nums=nums;
+        n=nums.length;
         this.target=target;
-        return count(0,0);
+        return find(0,0,nums);
     }
 }
