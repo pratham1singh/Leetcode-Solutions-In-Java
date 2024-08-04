@@ -21,11 +21,11 @@ class Solution {
         }
 
         for(int i=0;i<n;i++){
-            ArrayList<ArrayList<Integer>> arr = new ArrayList<>();
+            ArrayList<Integer> arr = new ArrayList<>();
              int visited[]= new int[n];
                 visited[i]=1;
             for(int a:adj.get(i)){
-                ArrayList<Integer> list1 = new ArrayList<>();
+                HashSet<Integer> list1 = new HashSet<>();
                 Queue<node> queue = new LinkedList<>();
                 queue.add(new node(a,cost[i][a]));
                visited[a]=1;
@@ -40,18 +40,13 @@ class Solution {
                             queue.add(new node(b,z.dist+cost[z.x][b]));
                         }
                 }
-                arr.add(list1);
+                arr.add(list1.size());
             }
-            // System.out.println(arr);
+
             for(int j=0;j<arr.size();j++)
-                for(int k=j+1;k<arr.size();k++){
-                    ArrayList<Integer> l1=arr.get(j);
-                    ArrayList<Integer> l2=arr.get(k);
-                    for(int x:l1)
-                        for(int y:l2)
-                            if(x!=y)
-                                ans[i]+=1;
-                }
+                for(int k=j+1;k<arr.size();k++)
+                    ans[i]+=arr.get(j)*arr.get(k);
+                
 
         }
         return ans;
