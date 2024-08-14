@@ -37,7 +37,6 @@ class Solution {
             adj.get(x[1]).add(x[0]);
         }
         countChildren(0);
-        // System.out.println(adj);
         return countGoodNodes(0);
     }
 }
