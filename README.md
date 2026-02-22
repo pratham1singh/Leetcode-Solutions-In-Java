@@ -79,10 +79,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -91,4 +93,5 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
