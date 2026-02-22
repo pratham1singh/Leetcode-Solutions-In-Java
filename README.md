@@ -47,4 +47,20 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
