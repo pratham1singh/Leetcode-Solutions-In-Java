@@ -12,6 +12,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -45,4 +46,5 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
