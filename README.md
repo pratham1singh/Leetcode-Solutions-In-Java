@@ -4,11 +4,13 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3617-find-the-original-typed-string-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -35,4 +37,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
