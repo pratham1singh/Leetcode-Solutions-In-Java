@@ -1,35 +1,22 @@
 class Solution {
-    public int[][] merge(int[][] arr) {
-        int n=arr.length,i=1;
+    public int[][] merge(int[][] intervals) {
+        Arrays.sort(intervals, (a,b) -> Integer.compare(a[0], b[0]));
         Stack<int[]> st = new Stack<>();
-        Arrays.sort(arr,(a,b)->{
-            if(a[0]!=b[0])
-                return a[0]-b[0];
-            else
-                return a[1]-b[1];
-        });
-        st.push(arr[0]);
 
-        while(i<n){
-            if(st.peek()[1]>=arr[i][0]){
-                int a[]= new int[2];
-                st.peek()[1]=Math.max(arr[i][1],st.peek()[1]);
-                i++;
-            }
-            else{
-                st.push(arr[i]);
-                i++;
+        for(int[] y: intervals ) {
+            if(st.size() ==0) st.add(y);
+            else {
+                int[] x = st.peek();
+                if(x[1] < y[0]) st.add(y);
+                else {
+                    x[1] = Math.max(x[1], y[1]);
+                }
             }
         }
-        int ans[][]= new int[st.size()][2];
-        i=0;
-        while(st.size()>0){
-            ans[i][0]=st.peek()[0];
-            ans[i][1]=st.peek()[1];
-            st.pop();
-            i++;
-        }
-        return ans;
+       int[][] ans = new int[st.size()][2];
+       int i =0;
+       for(int[] a: st) ans[i++] = a;
+       return ans;
 
     }
 }
