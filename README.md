@@ -16,6 +16,7 @@
 | [0213-house-robber-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0213-house-robber-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Dynamic Programming
@@ -53,6 +54,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -99,4 +101,12 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
+## Math
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+## Matrix
+|  |
+| ------- |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 <!---LeetCode Topics End-->
