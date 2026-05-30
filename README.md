@@ -15,6 +15,7 @@
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
 | [0213-house-robber-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0213-house-robber-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -109,6 +110,7 @@
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
