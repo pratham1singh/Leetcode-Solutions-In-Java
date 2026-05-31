@@ -6,6 +6,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3617-find-the-original-typed-string-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
@@ -49,11 +51,13 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Sorting
