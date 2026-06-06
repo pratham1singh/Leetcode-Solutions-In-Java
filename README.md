@@ -18,6 +18,7 @@
 | [0213-house-robber-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -58,6 +59,7 @@
 | [0049-group-anagrams](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0049-group-anagrams) |
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3543-maximum-weighted-k-edge-path) |
 ## Sorting
