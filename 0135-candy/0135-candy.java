@@ -13,13 +13,9 @@ class Solution {
             if(arr[i-1]>arr[i]) ans[i-1] = ans[i] +1;
 
             if(i+1<n && arr[i-1] < arr[i] && arr[i] > arr[i+1]) ans[i] = Math.max(ans[i-1], ans[i+1]) + 1;
+            temp+=ans[i];
         }
 
-        // for(int i=1;i<n-1;i++) {
-        //     if(arr[i-1] < arr[i] && arr[i] > arr[i+1]) ans[i] = Math.max(ans[i-1], ans[i+1]) + 1;
-        // }
-        for(int x: ans) temp+=x;
-
-        return temp;
+        return temp + ans[0];
     }
 }
