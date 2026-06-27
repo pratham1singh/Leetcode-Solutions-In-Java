@@ -17,18 +17,14 @@ class Solution {
 
     public int countValidSubarrays(int[] nums, int x) {
         int n = nums.length, ans=0;
-        long[] prefix = new long[n];
-        prefix[0] = nums[0];
 
-        for(int i=1;i<n;i++) prefix[i] = prefix[i-1] + nums[i];
-
-        for(int i=0;i<n;i++) 
+        for(int i=0;i<n;i++) {
+            long sum = 0;
             for(int j=i;j<n;j++) {
-                long sum = prefix[j];
-                if(i-1>=0) sum-=prefix[i-1];
-
+                sum += nums[j];
                 if(isValidSum(sum, x)) ans++;
             }
+        }
         return ans;
     }
 }
