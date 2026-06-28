@@ -24,6 +24,7 @@
 | [0845-longest-mountain-in-array](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0845-longest-mountain-in-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -41,6 +42,7 @@
 | ------- |
 | [0135-candy](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0135-candy) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
 | ------- |
@@ -75,6 +77,7 @@
 | [0056-merge-intervals](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0056-merge-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Linked List
 |  |
