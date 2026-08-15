@@ -113,12 +113,14 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -130,6 +132,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 ## Math
 |  |
@@ -169,4 +172,12 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
