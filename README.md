@@ -9,6 +9,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [3617-find-the-original-typed-string-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
@@ -115,6 +116,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Math
 |  |
 | ------- |
@@ -176,8 +180,10 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 <!---LeetCode Topics End-->
