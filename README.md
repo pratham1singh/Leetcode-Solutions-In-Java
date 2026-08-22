@@ -29,6 +29,7 @@
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0135-candy](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0135-candy) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sliding Window
 |  |
 | ------- |
