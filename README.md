@@ -119,6 +119,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Math
 |  |
 | ------- |
