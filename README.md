@@ -83,6 +83,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -131,6 +133,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -146,6 +149,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3997-count-dominant-nodes-in-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3997-count-dominant-nodes-in-a-binary-tree) |
 ## Math
 |  |
