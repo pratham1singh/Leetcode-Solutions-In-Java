@@ -21,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0213-house-robber-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
 | [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
 | [0845-longest-mountain-in-array](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0845-longest-mountain-in-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -35,6 +36,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0053-maximum-subarray) |
 | [0213-house-robber-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
 | [0845-longest-mountain-in-array](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0845-longest-mountain-in-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -203,4 +205,16 @@
 |  |
 | ------- |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
