@@ -1,6 +1,6 @@
 class Solution {
     public int maxEqualAdjacentPairs(int[] nums) {
-        int n = nums.length, i=0, mx=0;
+        int n = nums.length, i=0, mx=0, temp=0;
         HashMap<String, Integer> map = new HashMap<>();
 
         while(i<n) {
@@ -16,16 +16,11 @@ class Solution {
 
                 if(mx<map.get(key)) mx = map.get(key);
             }
+            else if(i+1<n && nums[i] == nums[i+1]) temp++;
+            
             i++;
         }
 
-        i=0;
-
-        while(i<n-1) {
-            if(nums[i] == nums[i+1]) mx++;
-            i++;
-        }
-
-        return mx;
+        return mx + temp;
     }
 }
