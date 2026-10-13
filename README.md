@@ -31,6 +31,7 @@
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3543-maximum-weighted-k-edge-path) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Binary Lifting
 |  |
 | ------- |
