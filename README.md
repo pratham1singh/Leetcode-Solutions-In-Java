@@ -32,6 +32,7 @@
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3543-maximum-weighted-k-edge-path) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
 | ------- |
