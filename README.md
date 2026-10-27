@@ -24,6 +24,7 @@
 | [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
 | [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
 | [0845-longest-mountain-in-array](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0845-longest-mountain-in-array) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -55,11 +56,13 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [4067-longest-subarray-with-restricted-pair-sums](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Prefix Sum
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 ## Divide and Conquer
@@ -76,6 +79,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3543-maximum-weighted-k-edge-path](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3543-maximum-weighted-k-edge-path) |
@@ -163,6 +167,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
