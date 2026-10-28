@@ -29,6 +29,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -131,6 +132,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -142,6 +144,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -158,6 +161,7 @@
 | [0110-balanced-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0110-balanced-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0669-trim-a-binary-search-tree) |
+| [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2641-cousins-in-binary-tree-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2641-cousins-in-binary-tree-ii) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
@@ -228,4 +232,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0494-target-sum) |
+## DP on Trees
+|  |
+| ------- |
+| [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
 <!---LeetCode Topics End-->
