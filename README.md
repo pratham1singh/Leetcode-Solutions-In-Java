@@ -30,6 +30,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
@@ -51,6 +52,7 @@
 | [0135-candy](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0135-candy) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sliding Window
 |  |
@@ -95,6 +97,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Linked List
 |  |
