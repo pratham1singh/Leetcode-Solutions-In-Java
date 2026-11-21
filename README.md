@@ -10,6 +10,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3617-find-the-original-typed-string-i](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/3617-find-the-original-typed-string-i) |
 ## Array
 |  |
