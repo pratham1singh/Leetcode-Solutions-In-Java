@@ -26,6 +26,7 @@
 | [0554-brick-wall](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0554-brick-wall) |
 | [0845-longest-mountain-in-array](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0845-longest-mountain-in-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2615-sum-of-distances](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2615-sum-of-distances) |
 ## Divide and Conquer
@@ -176,6 +178,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1248-count-number-of-nice-subarrays) |
+| [1352-product-of-the-last-k-numbers](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1352-product-of-the-last-k-numbers) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Matrix
 |  |
@@ -240,4 +243,12 @@
 |  |
 | ------- |
 | [2049-count-nodes-with-the-highest-score](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/2049-count-nodes-with-the-highest-score) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/pratham1singh/Leetcode-Solutions-In-Java/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
